@@ -4,8 +4,8 @@
 
 <p><i>Sbuilder</i> is a Python code that adds benzene rings to any available C&ndash;C bond of an aromatic system. 
 The program looks for all available C&ndash;C bonds (effectively for H&ndash;C&ndash;C&ndash;H fragments), eliminates
-the hydrogen atoms and fuses a new benzene ring to this C&ndash;C bond. Optionally, the resulting structure is checked for 
-uniqueness and optimized using a force field.
+the hydrogen atoms and fuses a new benzene ring to this C&ndash;C bond. The resulting structure is checked for 
+uniqueness and, optionally, optimized using a force field.
 
 <br><p> The <a href="https://github.com/vyboishchikov/Sbuilder/blob/main/SBuilder.py">Sbuilder Python code</a> can be downloaded.
 To run the program from the command line, use the following syntax:</p>
@@ -15,7 +15,7 @@ To run the program from the command line, use the following syntax:</p>
 Do not include any header in the file.</p>
 
 <p>The code was used in the following publication:</p>
-<p>I. Safraz, S. F. Vyboishchikov, M. Sol&agrave;, A. Artigas, <i>submitted</i>, <b>2025</b>.
+<p>I. Sarfraz, S. F. Vyboishchikov, M. Sol&agrave;, A. Artigas, <i>submitted</i>, <b>2025</b>.
 
 <p>For questions related to the <i>Sbuilder</i> program, please contact
 <a href="mailto:vyboishchikov@googlemail.com">Sergei Vyboishchikov</a>.</p>
