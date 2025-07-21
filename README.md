@@ -5,7 +5,7 @@
 
 <font face="Open Sans">
 
-<h1> Sbuilder &ndash; a Python code to successively attaches benzene rings to a given input geometry (xyz coordinates) </h1>
+<h1> Sbuilder &ndash; a Python code to successively attache benzene rings to a given input geometry (xyz coordinates) </h1>
 
 <h2>Introduction and User's Guide</h2>
 
