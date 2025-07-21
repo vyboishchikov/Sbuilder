@@ -16,7 +16,7 @@ Do not include any header in the file.</p>
 
 <p> The program needs the following Python modules: <code>Numpy</code>, <code>Random</code>, <code>NetworkX</code>.
 
-<p>The code was used in the following publication:</p>
+<p>The code was used in the following publication:<br>
 <p>I. Sarfraz, S. F. Vyboishchikov, M. Sol&agrave;, A. Artigas, <i>submitted</i>, <b>2025</b>.
 
 <p>For questions related to the <i>Sbuilder</i> program, please contact
