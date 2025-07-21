@@ -7,12 +7,14 @@ The program looks for all available C&ndash;C bonds (effectively for H&ndash;C&n
 the hydrogen atoms and fuses a new benzene ring to this C&ndash;C bond. The resulting structure is checked for 
 uniqueness and, optionally, optimized using a force field.
 
-<br><p> The <a href="https://github.com/vyboishchikov/Sbuilder/blob/main/SBuilder.py">Sbuilder Python code</a> can be downloaded.
+<p> The <a href="https://github.com/vyboishchikov/Sbuilder/blob/main/SBuilder.py">Sbuilder Python code</a> can be downloaded.
 To run the program from the command line, use the following syntax:</p>
 <code>Sbuilder.py <i>xyz-file</i> -gen number_of_generations -out <i>Output.xyz</i> [-opt uff|mmff]</code>
 
 <p><i><b>Warning:</b></i> The <i>xyz-file</i> should contain atomic symbols and Cartesian coordinates (in &#8491;). 
 Do not include any header in the file.</p>
+
+<p> The program needs the following Python modules: <code>Numpy</code>, <code>Random</code>, <code>NetworkX</code>.
 
 <p>The code was used in the following publication:</p>
 <p>I. Sarfraz, S. F. Vyboishchikov, M. Sol&agrave;, A. Artigas, <i>submitted</i>, <b>2025</b>.
