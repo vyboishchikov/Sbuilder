@@ -14,7 +14,7 @@ To run the program from the command line, use the following syntax:</p>
 <p><i><b>Warning:</b></i> The <i>xyz-file</i> should contain atomic symbols and Cartesian coordinates (in &#8491;). 
 Do not include any header in the file.</p>
 
-<p> The program needs the following Python modules: <code>Numpy</code>, <code>Random</code>, <code>NetworkX</code>.
+<p> The program needs the following Python modules: <code>Numpy</code>, <code>Random</code>, <code>NetworkX</code>, <code>RDKit</code>.
 
 <p>The code was used in the following publication:<br>
 <p>I. Sarfraz, S. F. Vyboishchikov, M. Sol&agrave;, A. Artigas, <i>submitted</i>, <b>2025</b>.
